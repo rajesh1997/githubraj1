@@ -1,0 +1,14 @@
+D:\Task\Task1\Transaction\bin\Debug\net8.0\Transaction.exe
+D:\Task\Task1\Transaction\bin\Debug\net8.0\Transaction.deps.json
+D:\Task\Task1\Transaction\bin\Debug\net8.0\Transaction.runtimeconfig.json
+D:\Task\Task1\Transaction\bin\Debug\net8.0\Transaction.dll
+D:\Task\Task1\Transaction\bin\Debug\net8.0\Transaction.pdb
+D:\Task\Task1\Transaction\obj\Debug\net8.0\Transaction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task\Task1\Transaction\obj\Debug\net8.0\Transaction.AssemblyInfoInputs.cache
+D:\Task\Task1\Transaction\obj\Debug\net8.0\Transaction.AssemblyInfo.cs
+D:\Task\Task1\Transaction\obj\Debug\net8.0\Transaction.csproj.CoreCompileInputs.cache
+D:\Task\Task1\Transaction\obj\Debug\net8.0\Transaction.dll
+D:\Task\Task1\Transaction\obj\Debug\net8.0\refint\Transaction.dll
+D:\Task\Task1\Transaction\obj\Debug\net8.0\Transaction.pdb
+D:\Task\Task1\Transaction\obj\Debug\net8.0\Transaction.genruntimeconfig.cache
+D:\Task\Task1\Transaction\obj\Debug\net8.0\ref\Transaction.dll
